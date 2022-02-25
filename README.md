@@ -36,11 +36,11 @@ Each attribute in the heart disease dataset is a medical risk factor.
 
 **exer_angina:** It refers to exercise-induced angina - (1=Yes, 0=No)
  
-**slope:**It refers to the slope of the peak of the exercise ST-Segment-(0,1,2)
+**slope:** It refers to the slope of the peak of the exercise ST-Segment-(0,1,2)
  
-**ca:**Number of major vessels - (0,1,2,3,4)
+**ca:** Number of major vessels - (0,1,2,3,4)
 
-**thalassemia target:**It refers to thalassemia which is a blood disorder - (0,1,2,3)
+**thalassemia target:** It refers to thalassemia which is a blood disorder - (0,1,2,3)
 
 **target:** The patient has heart disease or not - (1=Yes, 0=No)
 
